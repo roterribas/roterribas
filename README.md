@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://r2.erweima.ai/aiimage/23600579718d40c29054f0492d57aa2e.png" alt="Rodrigo - Soluções em Informática - Suporte Técnico e TI" width="100%" />
-</div>
-
-<div align="center">
-  <h1>Olá, Mundo! Sou o Rodrigo 👋</h1>
-  <p><b>Analista de Suporte Técnico | Especialista em Infraestrutura de TI</b></p>
+  <h2>🛠️ Rodrigo - Soluções em Informática 🛠️</h2>
+  <p><b>Analista de Suporte Técnico | Infraestrutura de TI & Redes</b></p>
 </div>
 
 <p align="center">
