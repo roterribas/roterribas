@@ -29,17 +29,6 @@ Sou formado em **Sistemas de Informação** pela UNIFIEO e possuo sólida experi
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roterribas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roterribas&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
-
----
-
 ### 📫 Como me encontrar
 
 * 💼 **LinkedIn:** [linkedin.com/in/roterribas](https://linkedin.com/in/roterribas)
